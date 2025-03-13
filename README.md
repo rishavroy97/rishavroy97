@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Rishav 👋
+
+- 💼 I’m currently working on complex workflows using LLM systems
+- 📖 Computer Science student at NYU
+- 🔭 I’m looking for Full-Time opportunities in the US
+- 📫 How to reach me: [Email](mailto:rr4577@nyu.edu?subject=Let's%20connect)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Left-handed (Only 10% of us in the world)
 
 <!--
 **rishavroy97/rishavroy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
